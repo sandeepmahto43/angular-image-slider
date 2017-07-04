@@ -1,1 +1,1 @@
-# angular-image-slider
+# angular-image-slider 
